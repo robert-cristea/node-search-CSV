@@ -1,0 +1,4 @@
+video/
+node_modules/
+*.csv
+.vscode/
